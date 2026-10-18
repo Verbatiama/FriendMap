@@ -32,6 +32,7 @@ export default defineConfig({
     rollupOptions: {
       output: {
         assetFileNames: "assets/[name][extname]",
+        inlineDynamicImports: true,
       },
     },
   },
