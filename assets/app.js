@@ -22933,7 +22933,7 @@ var QC = "#version 300 es\nin vec3 positions;\nin vec3 positions64Low;\nin float
 };
 dw.layerName = "HeatmapLayer", dw.defaultProps = cw;
 //#endregion
-//#region FriendMap/restaurants.js
+//#region restaurants.js
 var fw = 900, pw = 6, mw = 20, hw = 6371e3, gw = 900, _w = [];
 function vw(e) {
 	return Array.isArray(e) ? e.map((e) => ({
@@ -23132,7 +23132,7 @@ async function Mw({ map: e, locationsData: t, fallbackLocationsData: n, mapCente
 	}
 }
 //#endregion
-//#region FriendMap/app.js
+//#region app.js
 var Nw = "AIzaSyBBal_6FUfvLnKGrXZh23bSaXfc_Uv_SZE", Pw = "12daf469cfd19e9d34767371", Fw = {
 	lat: -34.92572531133676,
 	lng: 138.59971024043261

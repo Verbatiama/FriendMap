@@ -1,0 +1,17 @@
+{
+  "name": "friendmap",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@deck.gl/aggregation-layers": "^9.3.4",
+    "@deck.gl/google-maps": "^9.3.4",
+    "@deck.gl/layers": "^9.3.4",
+    "@googlemaps/js-api-loader": "^2.1.1"
+  },
+  "devDependencies": {
+    "vite": "^8.0.16"
+  }
+}
